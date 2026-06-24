@@ -24,31 +24,15 @@ Passionate about technology, programming, and web development. Currently pursuin
 
 ---
 
-## 🛠️ Technical Skills
+🛠️ Technology Stack
+☁️ Cloud & DevOps
 
-### 💻 Programming Languages
 
-* C
-* C++
-* JavaScript
+💻 Programming & Scripting
 
-### 🌐 Web Technologies
 
-* HTML5
-* CSS3
-* JavaScript
-* jQuery
+🐧 Operating Systems & Tools
 
-### 🗄️ Database Management
-
-* MySQL
-
-### ⚙️ Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Windows
 
 ---
 
